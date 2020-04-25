@@ -41,6 +41,8 @@ note:
 
 ===
 
+## A Philosophy
+
 <img src="dist/img/hakuna-matata.png" alt="DevOps Lion King Image" class="noborder"/>
 
 ===
