@@ -65,7 +65,7 @@ note:
 
 ===
 
-## Then What's a "DevOps Engineer"?!
+## 🧐 Then What's a "DevOps Engineer"?!
 
 Narrow definition of DevOps, but generally involves:
 
