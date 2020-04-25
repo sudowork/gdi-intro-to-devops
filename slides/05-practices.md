@@ -97,4 +97,31 @@ It's also culture and philosophy and fundamentally changes how an organization o
 
 ===
 
+## DevOps Skill Tree
+
+Sample skill tree for a "DevOps Engineer"
+
+You learn as you go - nobody knows everything
+
+- Foundation
+    - Linux
+    - Python (some scripting language)
+    - Amazon Web Services (Cloud Provider)
+- Tools
+    - Configuration
+        - Terraform
+    - Source Code Management
+        - Git
+    - Packaging
+        - Docker
+    - CI/CD
+        - Jenkins
+    - Operating
+        - AWS ECS (just an example)
+        - Kubernetes
+    - Monitoring
+        - ELK Stack (just an example)
+
+===
+
 # General Q&A ❓
