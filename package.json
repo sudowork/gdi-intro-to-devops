@@ -1,20 +1,18 @@
 {
-  "name": "gdi-slides-template",
+  "name": "gdi-intro-to-devops",
   "version": "2.6.2",
-  "description": "Girl Develop It framework for easily creating beautiful presentations using HTML in GDI theme. Forked from Hakim El Hattab's reveal.js",
+  "description": "Girl Develop It class on Introduction to DevOps",
   "homepage": "http://girldevelopit.github.io/gdi-slides-template",
   "scripts": {
     "test": "grunt test",
     "start": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "Kevin Gao"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/girldevelopit/gdi-slides-template.git"
+    "url": "git://github.com/sudowork/gdi-intro-to-devops.git"
   },
   "dependencies": {
     "express": "^4.17.1",
