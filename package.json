@@ -20,18 +20,18 @@
     "node": "~0.8.0"
   },
   "dependencies": {
-    "underscore": "~1.5.1",
-    "express": "~2.5.9",
-    "mustache": "~0.7.2",
-    "socket.io": "~0.9.13"
+    "express": "^4.17.1",
+    "mustache": "^4.0.1",
+    "socket.io": "^2.3.0",
+    "underscore": "~1.5.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.4",
-    "cssnano": "^3.9.1",
+    "cssnano": "^4.1.10",
     "grunt": "^1.0.1",
     "grunt-browser-sync": "^2.2.0",
     "grunt-contrib-connect": "^1.0.2",
-    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-qunit": "^1.2.0",
     "grunt-contrib-sass": "^1.0.0",
