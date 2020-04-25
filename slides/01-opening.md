@@ -54,8 +54,10 @@ note:
 <img src="dist/img/kgao.png" alt="Kevin Gao" class="noborder"/>
 
 note:
-- SWE in the SF Bay Area
+- SWE in the SF Bay Area for ~8 years
 - Currently at Quip (2+ years), group tech lead
+- Previously at DataFox (Dev + Ops)
+- Previously at Box (SRE Immersion)
 - Fun fact: wedding move / spicy ramen
 
 ===
