@@ -80,6 +80,5 @@ note:
 - What is DevOps?
 - The Software Development Life Cycle (SDLC)
 - Cloud Computing
-- DevOps Skills
-- DevOps Concepts and Practices
+- DevOps Concepts, Practices, and Skills
 - General Q&A
