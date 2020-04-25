@@ -3,6 +3,8 @@
 # Introduction to DevOps
 Saturday, April 25, 2020
 
+https://sudowork.github.io/gdi-intro-to-devops
+
 ===
 
 ## Welcome!
