@@ -1,4 +1,5 @@
 <img src="dist/img/circle-gdi-logo.png" alt="GDI Logo" class="noborder"/>
+
 # Introduction to DevOps
 Saturday, April 25, 2020
 
@@ -16,6 +17,8 @@ note:
 
 [Girl Develop It](https://www.girldevelopit.com) is a nonprofit organization that creates welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
 
+<img src="dist/img/gdisf-banner.jpeg" alt="GDI Organization" class="noborder"/>
+
 ===
 
 ## Some "Rules"
@@ -24,3 +27,50 @@ note:
 - Every question is important
 - Help each other
 - Have fun!
+
+===
+
+## Tell us about yourself
+
+- Who are you and what's your background?
+- Why do you want to learn about DevOps?
+- What do you hope to learn from today?
+- A fun fact?
+
+note:
+- Only share what you're comfortable with
+- Spend a few minutes here
+
+===
+
+## A Little About Me
+
+### Kevin Gao
+
+<img src="dist/img/kgao.png" alt="Kevin Gao" class="noborder"/>
+
+note:
+- SWE in the SF Bay Area
+- Currently at Quip (2+ years), group tech lead
+- Fun fact: wedding move / spicy ramen
+
+===
+
+## What to Expect Today
+
+DevOps is a very broad topic
+
+Format today: lecture style with Q&A
+
+I don't know everything (nobody does)
+
+Have fun and ask questions!
+
+note:
+- Can find the Q&A button below
+- Feel free to ask a question at any time and I'll try to get to it
+- There will be breaks for Q&A as well after each section
+
+===
+
+## Agenda
