@@ -63,3 +63,7 @@ Consider deployment before vs now
 Racking servers vs pushing a button (or not even having to push a button)
 
 <img src="dist/img/easy-button.jpg" alt="Staples Easy button" class="noborder"/>
+
+===
+
+## Questions on the ☁️?
