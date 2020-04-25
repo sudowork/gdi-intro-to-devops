@@ -16,9 +16,6 @@
     "type": "git",
     "url": "git://github.com/girldevelopit/gdi-slides-template.git"
   },
-  "engines": {
-    "node": "~0.8.0"
-  },
   "dependencies": {
     "express": "^4.17.1",
     "mustache": "^4.0.1",
