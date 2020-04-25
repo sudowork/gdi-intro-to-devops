@@ -30,6 +30,8 @@ note:
 - Help each other
 - Have fun!
 
+[Code of Conduct](https://www.girldevelopit.com/code-of-conduct)
+
 ===
 
 ## Tell us about yourself
