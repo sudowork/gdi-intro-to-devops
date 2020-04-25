@@ -94,7 +94,8 @@ module.exports = function(grunt) {
                 'js/**',
                 'dist/**',
                 'images/**',
-                'plugin/**'
+                'plugin/**',
+                'slides/**'
             ]
         },
 
@@ -113,7 +114,8 @@ module.exports = function(grunt) {
             bsFiles: {
                 src : [
                     'dist/css/**/*.css',
-                    '*.html'
+                    '*.html',
+                    'slides/**/*.md'
                 ]
             },
             options: {
