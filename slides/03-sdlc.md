@@ -60,3 +60,47 @@ So someone says they do "DevOps" - what's that mean?
 
 <img src="dist/img/sdlc-devops-engineer.png" alt="DevOps Engineer Responsibilities" class="noborder"/>
 
+===
+
+## Build
+
+<img src="dist/img/webpack.png" alt="Webpack bundler" class="noborder"/>
+
+<small>Image from https://webpack.com</small>
+
+===
+
+## Test
+
+<img src="dist/img/test-pyramid.png" alt="Testing pyramid" class="noborder"/>
+
+<small>Image from https://martinfowler.com/articles/practical-test-pyramid.html</small>
+
+note:
+- Mix of automated and manual testing
+- Hopefully more automated
+- The built code can be deployed to some environment for testing
+
+===
+
+## Release
+
+<img src="dist/img/boxes.jpg" alt="Packaged cardboard boxes" class="noborder"/>
+
+note:
+- Packaging the built code into shippable releases
+- Not necessarily deploying them for use yet
+- Release will have a version
+- Sometimes ticketing system will be used
+
+===
+
+## Deploy
+
+<img src="dist/img/spinnaker.png" alt="Deployment strategies" class="noborder"/>
+
+<small>Image from https://dzone.com/articles/new-way-of-cicd-in-kubernetes-with-jenkins-and-spi</small>
+
+===
+
+## Questions?
