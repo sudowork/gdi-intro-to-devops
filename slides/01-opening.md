@@ -74,3 +74,11 @@ note:
 ===
 
 ## Agenda
+
+- What is DevOps?
+- The Software Development Life Cycle (SDLC)
+- Cloud Computing
+- Cultural Shifts
+- DevOps Skills
+- DevOps Concepts and Practices
+- General Q&A
