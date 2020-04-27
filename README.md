@@ -32,3 +32,31 @@ No programming experience is required. Having some familiarity with software dev
 - Cloud Computing
 - DevOps Concepts, Practices, and Skills
 - General Q&A
+
+## Additional Resources
+
+### DevOps Career Advice
+
+- [How to Become a DevOps Engineer in Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) - Blog series that covers some foundational skills and a potential roadmap you can follow.
+
+### Practical Guides, Training, and Courses
+
+- [Girl Develop It Classes](https://girldevelopit.eventbrite.com) - Affordable and practical courses (like this one) that I would highly recommend! Be on the lookout for courses pertaining to Python, Linux, Git, Docker, and AWS.
+- [Introduction to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/) - Lengthy course on Linux fundamentals.
+- [Resources to learn Git](https://try.github.io/) - Links to resources to learn `git` for version control.
+- [AWS DevOps Resources](https://aws.amazon.com/devops/resources/) - Practical guides and resources related to DevOps; it's a little AWS specific.
+- [Harvard CS50x: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) - More advanced that you would need, but does aim to teach programming and computer science.
+
+### Newsletters and Websites
+
+- [devopsnewsletters.com](https://devopsnewsletters.com/) - Index of various DevOps Newsletters.
+- [Increment](https://increment.com/) - Newsletter published by Stripe and originally edited by [Susan Fowler](https://www.susanjfowler.com/) on how effective teams use DevOps practices to build and operate software at scale.
+- [Faun #DevOpsLinks](https://www.faun.dev/) - Community and newsletter for DevOps (and more) content.
+
+### Books
+
+- [Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook) - Covers DevOps practices and how to measure and adopt lean software practices.
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-Helping-Business-Anniversary/dp/B00VATFAMI) - Fictional book that details how a company goes through their digital transformation by adopting DevOps cultures and practices.
+- [Release It!](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213) - Great look at architectural patterns for building reliable systems.
+- [The DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3) - Somewhat philosophical look at how to apply DevOps to an organization.
+- [Site Reliability Engineering](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-dp-149192912X/dp/149192912X/) - Covers ways to think about distributed systems, software architecture, reliability, and operations roles like Site Reliability Engineering. Though not directly DevOps, a great resource.
