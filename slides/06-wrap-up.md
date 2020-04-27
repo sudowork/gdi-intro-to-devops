@@ -34,3 +34,9 @@
 ### Post Class Survey ✏️
 
 <p style="font-size: 60px; margin-bottom: 5rem;">https://bit.ly/gdi-devops️</p>
+
+===
+
+## Additional Resources
+
+See [Additional Resources](https://github.com/sudowork/gdi-intro-to-devops#additional-resources) in the README
