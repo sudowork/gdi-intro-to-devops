@@ -1,49 +1,34 @@
-> Please read our slide creation guidelines in [the wiki](https://github.com/girldevelopit/gdi-slides-template/wiki). Then, delete this banner and add the specifics about your class below.
+# Introduction to DevOps
 
-# Add Your Course Title Here
+Slides and materials are hosted at [https://sudowork.github.io/gdi-intro-to-devops](http://sudowork.github.io/gdi-intro-to-devops).
 
-Slides and materials are hosted at [http://github.io/your_username_here/your_repository_name_here](http://github.io/your_username_here/your_repository_name_here).
 
 ## Course description
 
-Use this space for a short description of your course. We recommend using the description from your meetup event.
+In this class, you’ll learn what DevOps is, its core principles, how it came about, and common practices & tools used in the DevOps model. This class will be taught lecture style with opportunities for Q&A throughout.
 
-**Cost:** 
+We will cover the basics of the Software Development Life Cycle (SDLC) and cloud computing. We will examine how the traditional model of software development (Dev) and information technology operations (Ops) works and how the DevOps model breaks the barrier between Dev and Ops in order to streamline the innovation and delivery of high quality software.
 
-**Dates:** 
+We will also be covering common skills, practices, and tools that are being used by DevOps practitioners. You will learn about DevOps practices such infrastructure as code (IaS), continuous integration (CI), continuous deployment (CD), and containerization, as well as how they conceptually fit into the software development life cycle. In doing so, we will briefly touch on modern tools that are used in industry today.
 
-**Location:** 
+**Cost:** $20
 
-A limited number of scholarships are available for those with a financial hardship. To apply, contact us at...
+**Dates:** Saturday, April 25, 2020
+
+**Location:** Virtual Zoom Webinar
+
+A limited number of scholarships are available for those with a financial hardship.
 
 
 ### Prerequisites:
 
-List any prerequisites for this class, including any previous classes or the equivalent self-study or real-world skills.
-
-You should have:
-
-(a) taken Intro or Intermediate HTML/CSS through Girl Develop It, or
-
-(b) built and managed websites on your own,
-
-**And also:**
-
-(a) taken intro to JavaScript through Girl Develop It, or
-
-(b) be familiar with syntax, arrays, conditionals, for and while loops, event handling, jQuery, AJAX requests, and handling JSON responses.
-
-
-### Tech requirements:
-
- - Your laptop (Mac, PC, or Linux are all okay).
- - A modern web browser - either Chrome or Firefox with Firebug installed.
- - A text editor. We recommend Sublime Text 2 (free; available for Mac, PC, and Linux).
+No programming experience is required. Having some familiarity with software development and/or how technology organizations are run would be beneficial, but not required.
 
 
 ### Topics covered:
 
- - The topics you plan to cover
- - Written in list form
- - Here's another one
-
+- What is DevOps?
+- The Software Development Life Cycle (SDLC)
+- Cloud Computing
+- DevOps Concepts, Practices, and Skills
+- General Q&A
