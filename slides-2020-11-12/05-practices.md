@@ -14,6 +14,13 @@ DevOps ≠ Tools
 
 <small>Image from https://www.bmc.com/blogs/continuous-delivery-continuous-deployment-continuous-integration-whats-difference/</small>
 
+===
+
+## DevOps Practices - Trends
+
+<img src="dist/img/google-trends.png" alt="DevOps Keyword Trends" class="noborder"/>
+
+<small>Google Trends for [Agile Development, Continuous Integration, CI/CD, and DevOps](https://trends.google.com/trends/explore?cat=5&date=all&q=Agile%20development,Continuous%20Integration,CI%2FCD,DevOps)</small>
 
 ===
 
