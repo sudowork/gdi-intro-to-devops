@@ -39,9 +39,9 @@ note:
 
 DevOps is a very broad topic
 
-We'll cover what DevOps is and careers in DevOps
+High level: What DevOps is and careers in DevOps
 
-Lecture-style, ask questions in the Hopin event chat
+Lecture-style, ask questions in the Hopin session chat
 
 I don't know everything (nobody does)
 
@@ -49,7 +49,7 @@ Have fun and ask questions!
 
 note:
 
-- Use event chat to ask questions. Will try to answer live.
+- Use session chat to ask questions. Will try to answer live.
 - Feel free to ask a question at any time and I'll try to get to it
 - There will be breaks for Q&A as well after each section
 
