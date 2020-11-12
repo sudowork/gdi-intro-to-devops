@@ -89,13 +89,13 @@ module.exports = function(grunt) {
 
         zip: {
             'reveal-js-presentation.zip': [
-                'index.html',
+                'index*.html',
                 'src/css/**',
                 'js/**',
                 'dist/**',
                 'images/**',
                 'plugin/**',
-                'slides/**'
+                'slides*/**'
             ]
         },
 
@@ -115,7 +115,7 @@ module.exports = function(grunt) {
                 src : [
                     'dist/css/**/*.css',
                     '*.html',
-                    'slides/**/*.md'
+                    'slides*/**/*.md'
                 ]
             },
             options: {
