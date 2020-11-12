@@ -23,6 +23,7 @@
 <small>Image from https://online.husson.edu/software-development-cycle/</small>
 
 note:
+
 - Planning: Requirements gathering (PMs, Devs, etc)
 - Analysis: Defining project goals, required functionality, what solution is needed
 - Design: Architect optimal solution given requirements
@@ -48,6 +49,7 @@ note:
 <img src="dist/img/sdlc-devops-wall.png" alt="Throwing Code Over the Wall" class="noborder"/>
 
 note:
+
 - Think about how frustrating it would be for someone to hand you something that was broken
 - Now think about if you kept getting woken up throughout the night and had to fix something you know little about
 - Builds animosity from both sides
@@ -77,6 +79,7 @@ So someone says they do "DevOps" - what's that mean?
 <small>Image from https://martinfowler.com/articles/practical-test-pyramid.html</small>
 
 note:
+
 - Mix of automated and manual testing
 - Hopefully more automated
 - The built code can be deployed to some environment for testing
@@ -88,6 +91,7 @@ note:
 <img src="dist/img/boxes.jpg" alt="Packaged cardboard boxes" class="noborder"/>
 
 note:
+
 - Packaging the built code into shippable releases
 - Not necessarily deploying them for use yet
 - Release will have a version
@@ -104,3 +108,5 @@ note:
 ===
 
 ## Questions?
+
+~5 min
