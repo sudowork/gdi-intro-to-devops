@@ -4,17 +4,18 @@
 
 ## Technical Roles in Software (SaaS) Companies
 
-- *Software Developer (Dev)*
-    - Frontend Developer
-    - Backend Developer
-- *IT Operations (Ops)*
-    - System Administrators
-    - Database Administrators
-    - Network Engineers
+- _Software Developer (Dev)_
+  - Frontend Developer
+  - Backend Developer
+- _IT Operations (Ops)_
+  - System Administrators
+  - Database Administrators
+  - Network Engineers
 - Information Security (Sec)
 - Quality Assurance (QA)
 
 note:
+
 - Talking primarily about Software as a Service companies
 - Notion of writing the code in development vs operating the software in production
 - Lots of different ways to define roles
@@ -37,6 +38,7 @@ note:
 &mdash; https://atlassian.com/devops
 
 note:
+
 - As you can tell, it's a pretty broad definition and includes some heady ideas around culture and philosophy.
 
 ===
@@ -80,3 +82,5 @@ Narrow definition of DevOps, but generally involves:
 ===
 
 ## Questions So Far?
+
+~5 min
