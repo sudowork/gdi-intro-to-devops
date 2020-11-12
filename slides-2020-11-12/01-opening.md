@@ -8,14 +8,11 @@ Thursday, November 12, 2020
 
 https://sudowork.github.io/gdi-intro-to-devops
 
-===
-
-## Welcome!
-
 note:
 
 - Thank you all for being here today.
 - I know it's a difficult time for many of us in the world, so I appreciate you taking the time today to learn about DevOps.
+- Share where dialing in from, what you do, and a fun fact (only share what you're comfortable with)
 
 ===
 

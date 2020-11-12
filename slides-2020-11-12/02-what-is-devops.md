@@ -25,8 +25,8 @@ note:
 ## What it's not
 
 - A person that does development and operations
-- A set of specific tools or software
 - Eliminating IT Operations
+- A set of specific tools or software
 - Just a role/title
 
 ===
