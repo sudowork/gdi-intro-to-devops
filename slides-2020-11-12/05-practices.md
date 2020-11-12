@@ -111,9 +111,9 @@ Sample skill tree for a "DevOps Engineer"
 You learn as you go - nobody knows everything
 
 - Foundation
-  - Linux
+  - Terminal / Linux
   - Python (some scripting language)
-  - Amazon Web Services (Cloud Provider)
+  - Amazon Web Services (some Cloud Provider)
 - Tools
   - Configuration
     - Terraform
@@ -124,10 +124,9 @@ You learn as you go - nobody knows everything
   - CI/CD
     - Jenkins
   - Operating
-    - AWS ECS (just an example)
-    - Kubernetes
+    - Kubernetes (just an example)
   - Monitoring
-    - ELK Stack (just an example)
+    - Prometheus + Grafana (just an example)
 
 ===
 
