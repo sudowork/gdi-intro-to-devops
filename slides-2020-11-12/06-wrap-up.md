@@ -8,4 +8,8 @@
 
 ### &nbsp;
 
+LinkedIn: [@kevinagao](https://linkedin.com/in/kevinagao)
+
+### &nbsp;
+
 [Additional Resources](https://github.com/sudowork/gdi-intro-to-devops#additional-resources) in the README (https://github.com/sudowork/gdi-intro-to-devops)
