@@ -59,16 +59,6 @@ note:
 
 ===
 
-## CALMS Framework
-
-- Culture (collaboration, communication, organization)
-- Automation of processes
-- Lean operations (less process, feature bloat, etc.)
-- Measurement of key performance indicators (e.g. time from dev to deployment)
-- Sharing of feedback and knowledge (continuous learning)
-
-===
-
 ## 🧐 Then What's a "DevOps Engineer"?!
 
 Narrow definition of DevOps, but generally involves:
