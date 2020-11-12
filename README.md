@@ -1,7 +1,13 @@
 # Introduction to DevOps
 
-Slides and materials are hosted at [https://sudowork.github.io/gdi-intro-to-devops](http://sudowork.github.io/gdi-intro-to-devops).
+Current slides and materials are hosted at [https://sudowork.github.io/gdi-intro-to-devops](https://sudowork.github.io/gdi-intro-to-devops).
 
+Past versions of this class:
+
+- [2020-11-12 GDI Mini-Conf 2020](https://sudowork.github.io/gdi-intro-to-devops/index-2020-11-12-gdi-miniconf.html)
+  - Shortened and adapted to the [Girl Develop It Virtual Mini-Conf 2020](https://girldevelopit.com/events/details/girl-develop-it-virtual-chapter-presents-gdi-virtual-mini-conference-2020/).
+- [2020-04-25 First Class](https://sudowork.github.io/gdi-intro-to-devops/index-2020-04-25.html)
+  - 90 minute class described below.
 
 ## Course description
 
