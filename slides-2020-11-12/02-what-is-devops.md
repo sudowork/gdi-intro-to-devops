@@ -72,5 +72,3 @@ Narrow definition of DevOps, but generally involves:
 ===
 
 ## Questions So Far?
-
-~5 min

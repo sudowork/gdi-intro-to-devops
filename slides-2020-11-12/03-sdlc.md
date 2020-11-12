@@ -107,6 +107,4 @@ note:
 
 ===
 
-## Questions?
-
-~5 min
+## Questions So Far?
