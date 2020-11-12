@@ -55,7 +55,7 @@ Practice of automating integration of code changes reliably
 
 ## Code ⟺ Release (Continuous Delivery)
 
-Practice of automating releases so that they are *ready* to be deployed to production
+Practice of automating releases so that they are _ready_ to be deployed to production
 
 - Requires Continuous Integration
 - Often abbreviated to CI/CD
@@ -70,7 +70,7 @@ Practice of automating releases so that they are *ready* to be deployed to produ
 
 ## Code ⟺ Deploy (Continuous Deployment)
 
-Practice of automating deployment of release *to production*
+Practice of automating deployment of release _to production_
 
 - Tooling the same as Continuous Delivery
 - Biggest change is cultural
@@ -111,23 +111,23 @@ Sample skill tree for a "DevOps Engineer"
 You learn as you go - nobody knows everything
 
 - Foundation
-    - Linux
-    - Python (some scripting language)
-    - Amazon Web Services (Cloud Provider)
+  - Linux
+  - Python (some scripting language)
+  - Amazon Web Services (Cloud Provider)
 - Tools
-    - Configuration
-        - Terraform
-    - Source Code Management
-        - Git
-    - Packaging
-        - Docker
-    - CI/CD
-        - Jenkins
-    - Operating
-        - AWS ECS (just an example)
-        - Kubernetes
-    - Monitoring
-        - ELK Stack (just an example)
+  - Configuration
+    - Terraform
+  - Source Code Management
+    - Git
+  - Packaging
+    - Docker
+  - CI/CD
+    - Jenkins
+  - Operating
+    - AWS ECS (just an example)
+    - Kubernetes
+  - Monitoring
+    - ELK Stack (just an example)
 
 ===
 
