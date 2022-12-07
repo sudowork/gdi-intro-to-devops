@@ -16,7 +16,7 @@
     "url": "git://github.com/sudowork/gdi-intro-to-devops.git"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mustache": "^4.0.1",
     "socket.io": "^2.3.0",
     "underscore": "~1.5.1"
