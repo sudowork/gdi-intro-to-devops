@@ -19,7 +19,7 @@
     "express": "^4.17.3",
     "mustache": "^4.0.1",
     "socket.io": "^2.4.0",
-    "underscore": "~1.5.1"
+    "underscore": "~1.12.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.5.4",
